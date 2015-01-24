@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="warp-engine is an open-source, realtime push engine, written in scala, build on play and akka. It's fully reactive and scalable.">
     <meta name="author" content="david pichsenmeister">
-    <link rel="icon" href="img/warp-logo-64x64.png">
+    <link rel="icon" sizes="512x512" href="img/warp-logo-512x512.png">
+    <link rel="icon" sizes="128x128" href="img/warp-logo-128x128.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="img/warp-logo-128x128.png">
 
     <title>warp-engine - an open-source, realtime push engine.</title>
 
