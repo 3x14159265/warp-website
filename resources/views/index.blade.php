@@ -61,7 +61,7 @@
       
       <div class="row">
 	<div class="col-md-3">
-	  <a href="https://www.orat.io" target="_blank"><img src="http://www.dimocom.com/img/oratio.png" alt="orat.io"></a>
+	  <a href="https://www.orat.io" target="_blank"><img src="https://orat.io/Broadcasts/img/logo.png" alt="orat.io"></a>
 	</div>
       </div>
 @endsection

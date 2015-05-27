@@ -6,17 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="warp-engine is an open-source, realtime push engine, written in scala, build on play and akka. It's fully reactive and scalable.">
     <meta name="author" content="david pichsenmeister">
-    <link rel="icon" sizes="512x512" href="img/warp-logo-512x512.png">
-    <link rel="icon" sizes="128x128" href="img/warp-logo-128x128.png">
-    <link rel="apple-touch-icon" sizes="128x128" href="img/warp-logo-128x128.png">
+    <link rel="icon" sizes="512x512" href="/img/warp-logo-512x512.png">
+    <link rel="icon" sizes="128x128" href="/img/warp-logo-128x128.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="/img/warp-logo-128x128.png">
 
     <title>@yield('title', 'warp-engine - an open-source, realtime push engine.')</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap theme -->
-    <link href="bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet">
-    <link href="css/theme.css" rel="stylesheet">
+    <link href="/bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -88,7 +88,7 @@
       </div>
     </footer>
 
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
   </body>
 </html>
