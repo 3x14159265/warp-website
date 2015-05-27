@@ -11,11 +11,11 @@
     <title>warp-engine - an open-source, realtime push engine.</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap theme -->
-    <link href="../bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet">
-    <link href="../css/prism.css" rel="stylesheet">
-    <link href="../css/theme.css" rel="stylesheet">
+    <link href="/bower_components/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet">
+    <link href="/css/prism.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -36,7 +36,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">warp-engine</a>
+          <a class="navbar-brand warp-font" href="/">warp&nbsp;-engine</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -147,8 +147,8 @@
       </div>
     </footer>
 
-    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="../js/prism.js"></script>
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/js/prism.js"></script>
   </body>
 </html>
